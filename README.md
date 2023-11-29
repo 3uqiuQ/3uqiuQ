@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/3uqiuQ/3uqiuQ/files/13498438/titulo_git.pdf">
-    <img style="max-width: 80%; height: 200px; width: 100%;" alt="Banner PDF" src="https://ruta_de_tu_imagen/banner_image.jpg">
-  </a>
+  <img width="80%" height="200" alt="titulo_git" src="https://github.com/3uqiuQ/3uqiuQ/files/13498438/titulo_git.pdf">
 </p>
 
 ### Hi I'm Quique !
