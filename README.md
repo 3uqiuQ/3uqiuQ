@@ -1,7 +1,7 @@
 
 <img width="95%" alt="Captura de pantalla 2023-11-29 a las 10 23 37" src="https://github.com/3uqiuQ/3uqiuQ/assets/130984240/e20baec6-8500-4f16-bf37-0e675e3d56a3">
 
-<p style="font-family: 'sans-serif', 'Raleway', Arial;">
+<p style="font-family: 'Raleway', Arial;">
   
 ### Hi I'm Quique !
 
