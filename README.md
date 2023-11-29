@@ -1,4 +1,6 @@
-<img width="1400" alt="Captura de pantalla 2023-11-27 a las 19 05 05" src="https://github.com/3uqiuQ/3uqiuQ/assets/130984240/859524f5-64fc-424f-9f30-4b494cf45e1e">
+<p align="center">
+  <img width="100%" height="200" alt="Captura de pantalla 2023-11-27 a las 19 05 05" src="https://github.com/3uqiuQ/3uqiuQ/assets/130984240/859524f5-64fc-424f-9f30-4b494cf45e1e">
+</p>
 
 ### Hi I'm Quique !
 
