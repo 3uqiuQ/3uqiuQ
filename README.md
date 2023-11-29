@@ -1,7 +1,7 @@
 <p align="center">
-  <object data="https://github.com/3uqiuQ/3uqiuQ/files/13498438/titulo_git.pdf" type="application/pdf" width="80%" height="200">
-    <a href="https://github.com/3uqiuQ/3uqiuQ/files/13498438/titulo_git.pdf">Descargar PDF</a>
-  </object>
+  <a href="https://github.com/3uqiuQ/3uqiuQ/files/13498438/titulo_git.pdf">
+    <img style="max-width: 80%; height: 200px; width: 100%;" alt="Banner PDF" src="https://ruta_de_tu_imagen/banner_image.jpg">
+  </a>
 </p>
 
 ### Hi I'm Quique !
