@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="80%" height="200" alt="Captura de pantalla 2023-11-27 a las 19 05 05" src="https://github.com/3uqiuQ/3uqiuQ/assets/130984240/859524f5-64fc-424f-9f30-4b494cf45e1e">
+  <object data="https://github.com/3uqiuQ/3uqiuQ/files/13498438/titulo_git.pdf" type="application/pdf" width="80%" height="200">
+    <a href="https://github.com/3uqiuQ/3uqiuQ/files/13498438/titulo_git.pdf">Descargar PDF</a>
+  </object>
 </p>
 
 ### Hi I'm Quique !
