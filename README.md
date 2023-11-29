@@ -1,1 +1,1 @@
-<img width="1033" alt="capt_git" src="https://github.com/3uqiuQ/3uqiuQ/assets/130984240/4b3d3310-5031-4c83-80b2-e460d6fa749b">
+<img width="1053" alt="capt_read_git" src="https://github.com/3uqiuQ/3uqiuQ/assets/130984240/ddb960cd-a783-4cb6-a028-dbe34a98208b">
